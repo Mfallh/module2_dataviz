@@ -1,6 +1,4 @@
-# module2_dataviz
-
-# Project: Data Visualization : Impact of COVID on happiness 
+# Module 2 Project: Data Visualization : Impact of COVID on Happiness 
 
 ## Overview
 
@@ -15,6 +13,7 @@ We decided to focus on measuring the impact of COVID on happiness via the data f
 - **Jupyter notebook** Import of data set, harmonization/cleaning of data, visualization of data 
 - **data folder** containing your data set
 - **PPT presentation** presentation in French to satisfy the storytelling requirement with accompagning visualizations 
+- **Trello** Our planning tool:[Trello](https://trello.com/b/s6krGprT/project-module-2-data-viz-taler-marius)
 
 
 ## Sources: 
