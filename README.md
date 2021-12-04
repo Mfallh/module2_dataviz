@@ -38,7 +38,7 @@ Our final dataset has the following columns:
 | Social support | Calculation of feeling of community among other population members, 0-1 |
 | Life Expectancy|Calculation of Life Expectancy vs Coefficient of Average Coefficient |
 | Freedom to make life choices| Calculation of relative social freedom, 0-1 |
-| Perception of corruption| Calculation of perception of corrpution, 0-1 |
+| Perception of corruption| Calculation of perception of corruption, 0-1 |
 | Positive Affect| Positive affect is defined as the average of three positive affect measures set by GWP: happiness, laugh and enjoyment,measured from 0-1 |
 | Negative Affect| Negative affect is defined as the average of three negative affect measures set by GWP: They are worry, sadness and anger,measured from 0 -1 |
 | Region|Location of countries by continent |
