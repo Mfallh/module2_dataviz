@@ -2,7 +2,7 @@
 
 ## Overview
 
-The objective of our project was to source and interpret real world data with visualizations this project is to practice creating and interpreting different types of visualizations using real world data.
+The objective of our project was to source and interpret real world data and to practice creating and interpreting different types of visualizations using real world data.
 
 We decided to focus on measuring the impact of COVID on happiness via the data found in the [World Happiness Report](https://worldhappiness.report/ed/2021/) 
 
@@ -39,7 +39,7 @@ Our final dataset has the following columns:
 | Life Expectancy|Calculation of Life Expectancy vs Coefficient of Average Coefficient |
 | Freedom to make life choices| Calculation of relative social freedom, 0-1 |
 | Perceptions of corruption| Calculation of interpretation of corrpution, 0-1 |
-| Positive Affect|measured from 0-1 |
-| Negative Affect| measured from 0 -1 |
+| Positive Affect| Positive affect is defined as the average of three positive affect measures set by GWP: happiness, laugh and enjoyment,measured from 0-1 |
+| Negative Affect| Negative affect is defined as the average of three negative affect measures set by GWP: They are worry, sadness and anger,measured from 0 -1 |
 | Region|Location of countries by continent |
 | Sub-region| classification of countries by the regions they are found in their respective continents |
