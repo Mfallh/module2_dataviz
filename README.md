@@ -12,7 +12,7 @@ We decided to focus on measuring the impact of COVID on happiness via the data f
 
 - **Jupyter notebook** Import of data set, harmonization/cleaning of data, visualization of data 
 - **data folder** containing your data set
-- **PPT presentation** presentation in French to satisfy the storytelling requirement with accompagning visualizations 
+- **PPT presentation** presentation in French to satisfy the storytelling requirement with accompagning visualizations. [PPT presentation](https://docs.google.com/presentation/d/1FEdVd4qATvuweGtIN34QaWbGkbvScO6QH2necXreZJQ/edit?usp=sharing) 
 - **Trello** Our planning tool:[Trello](https://trello.com/b/s6krGprT/project-module-2-data-viz-taler-marius)
 
 
