@@ -25,7 +25,7 @@ We decided to focus on measuring the impact of COVID on happiness via the data f
 
 All scores are based on its relation to an imaginary control country, 'Dystopia' that has the least happiest population by all criteres measured by this report. Dystopia's score should match up with the lowest averages scores found from actual countries data and therefore work as an benchmark. 
 
-The total score features a Cantril Ladder model from 0-10, the higher the score on the ladder, the happier a country's population. This result comes from an annual Gallup poll  The remaining 6 factors - levels of GDP, life expectancy, generosity, social support, freedom, and corruption - are  averaged calculations from 2018-2020 that show what share of these factors determine why why one's country total score is higher than another[(see World Happiness Report FAQ for more info)](https://worldhappiness.report/faq/#where-do-the-subbars-come-from-for-each-of-the-six-explanatory-factors).
+The total score features a Cantril Ladder model from 0-10, the higher the score on the ladder, the happier a country's population. This result comes from an annual Gallup poll.  The remaining 6 factors - levels of GDP, life expectancy, generosity, social support, freedom, and corruption - are  averaged calculations from 2018-2020 that show what share of these factors determine why why one's country total score is higher than another[(see World Happiness Report FAQ for more info)](https://worldhappiness.report/faq/#where-do-the-subbars-come-from-for-each-of-the-six-explanatory-factors).
 
 ## Final Data Set 
 
