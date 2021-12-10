@@ -20,6 +20,7 @@ We decided to focus on measuring the impact of COVID on happiness via the data f
 
 * **World Happiness Report** - Yearly report that documents how happiness of participating countries' citizens with 6 factors [World Happiness Report](https://happiness-report.s3.amazonaws.com/2021/WHR+21.pdf), and accompagning dataset used : [World Happiness Report Data Panel](https://happiness-report.s3.amazonaws.com/2021/DataPanelWHR2021C2.xls)
 * **ISO-3166 Country and Dependent Territories Lists with UN Regional Codes from users Lukes, jlewis91,michalskop,NickDickinsonWilde via Github** - Merged lists ISO 3166-1 country classication and  UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets  or the [ISO-3166 Country and Dependent Territories Lists with UN Regional Codes](https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes/blob/6b31edc760abcceb7aa1ae4f15e6e4496bce97f1/all/all.csv)
+* Data sources in .csv format can also be found in the 'Data Sources' folder. 
 
 ## 6 factors of Happiness According to the World Happiness Report 
 
